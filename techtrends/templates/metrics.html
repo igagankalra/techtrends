@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>{% block title %} Metrics{% endblock %}</h2>
+    <p> 
+    <p>{{ metrics['response'] }}</p>
+    <h3>{{metrics['response{post_count}']}}</h3>
+    </p>
+{% endblock %}

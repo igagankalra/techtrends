@@ -1,0 +1,5 @@
+# Excluding Log Files
+techtrends/logs/app*
+
+# #Excluding database.db
+# *.db
