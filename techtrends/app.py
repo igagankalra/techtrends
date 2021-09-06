@@ -149,5 +149,5 @@ def metrics() -> json:
 if __name__ == "__main__":
 
     logging.basicConfig(
-        filename=f'logs/app_{get_time_stamp(True)}.log', level=logging.INFO, format='%(levelname)s:%(name)s:%(asctime)s, %(message)s', datefmt='%d/%m/%Y, %H:%M:%S')
+        level=logging.DEBUG, format='%(levelname)s:%(name)s:%(asctime)s, %(message)s', datefmt='%d/%m/%Y, %H:%M:%S', handlers=[logging.StreamHandler(), logging.FileHandler(f'logs/app_{get_time_stamp(True)}.log')])
     app.run(host='0.0.0.0', port='3111')
