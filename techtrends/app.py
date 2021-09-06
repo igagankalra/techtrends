@@ -71,7 +71,7 @@ def post(post_id: int) -> Text:
 
     post = get_post(post_id)
     if post is None:
-        app.logger.info(f'Article Not Found')
+        app.logger.error(f'Article with id {post_id} Not Found')
         return render_template('404.html'), 404
     else:
         app.logger.info(f' Article "{post[2]}" retrieved!')
