@@ -25,7 +25,7 @@ spec:
         imagePullPolicy: { { .Values.image.imagePullPolicy } }
         name: techtrends
         ports:
-          - containerPort: { { .Values.spec.containerPort } }
+        - containerPort: { { .Values.spec.containerPort } }
         resources:
           requests:
             cpu: { { .Values.spec.resources.requests.cpu } }
