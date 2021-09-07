@@ -32,19 +32,6 @@ def get_post(post_id: int) -> Text:
     return post
 
 
-# Function to get a post using its ID
-def get_time_stamp(logging: bool = False) -> str:
-    datetime_now = datetime.datetime.now()
-    date, time = str(datetime_now).split(" ")
-    if logging:
-
-        log_time_stamp = date.replace(
-            "-", "_") + "_" + time.split(".")[0].replace(":", "_")
-        return log_time_stamp
-    else:
-        return date, time.split(".")[0]
-
-
 # Define the Flask application
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your secret key'
@@ -149,5 +136,5 @@ def metrics() -> json:
 if __name__ == "__main__":
 
     logging.basicConfig(
-        level=logging.DEBUG, format='%(levelname)s:%(name)s:%(asctime)s, %(message)s', datefmt='%d/%m/%Y, %H:%M:%S', handlers=[logging.StreamHandler(), logging.FileHandler(f'logs/app_{get_time_stamp(True)}.log')])
+        level=logging.DEBUG, format='%(levelname)s:%(name)s:%(asctime)s, %(message)s', datefmt='%d/%m/%Y, %H:%M:%S', handlers=[logging.StreamHandler(), logging.FileHandler(f'app.log')])
     app.run(host='0.0.0.0', port='3111')

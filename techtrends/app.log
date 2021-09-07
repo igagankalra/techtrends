@@ -1,0 +1,100 @@
+INFO:werkzeug:07/09/2021, 23:12:32,  * Running on http://0.0.0.0:3111/ (Press CTRL+C to quit)
+DEBUG:app:07/09/2021, 23:12:40, index page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:40, Connection to Database Successful through chrome on windows
+INFO:werkzeug:07/09/2021, 23:12:40, 127.0.0.1 - - [07/Sep/2021 23:12:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:07/09/2021, 23:12:40, 127.0.0.1 - - [07/Sep/2021 23:12:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+DEBUG:app:07/09/2021, 23:12:43, about page is accessed through chrome on windows
+INFO:app:07/09/2021, 23:12:43,  "About Us" page is retrieved!
+INFO:werkzeug:07/09/2021, 23:12:43, 127.0.0.1 - - [07/Sep/2021 23:12:43] "[37mGET /about HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:44, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:44, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:44, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:44, 127.0.0.1 - - [07/Sep/2021 23:12:44] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:45, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:45, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:45, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:45, 127.0.0.1 - - [07/Sep/2021 23:12:45] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:45, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:45, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:45, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:45, 127.0.0.1 - - [07/Sep/2021 23:12:45] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:45, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:45, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:45, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:45, 127.0.0.1 - - [07/Sep/2021 23:12:45] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:46, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:46, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:46, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:46, 127.0.0.1 - - [07/Sep/2021 23:12:46] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:46, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:46, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:46, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:46, 127.0.0.1 - - [07/Sep/2021 23:12:46] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:46, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:46, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:46, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:46, 127.0.0.1 - - [07/Sep/2021 23:12:46] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:46, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:46, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:46, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:46, 127.0.0.1 - - [07/Sep/2021 23:12:46] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:46, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:46, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:46, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:46, 127.0.0.1 - - [07/Sep/2021 23:12:46] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:47, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:47, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:47, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:47, 127.0.0.1 - - [07/Sep/2021 23:12:47] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:47, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:47, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:47, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:47, 127.0.0.1 - - [07/Sep/2021 23:12:47] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:47, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:47, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:47, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:47, 127.0.0.1 - - [07/Sep/2021 23:12:47] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:47, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:12:47, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:12:47, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:12:47, 127.0.0.1 - - [07/Sep/2021 23:12:47] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:12:48, healthz page is accessed through chrome on windows
+INFO:app:07/09/2021, 23:12:48, "Status" is accessed.
+INFO:werkzeug:07/09/2021, 23:12:48, 127.0.0.1 - - [07/Sep/2021 23:12:48] "[37mGET /healthz HTTP/1.1[0m" 200 -
+INFO:werkzeug:07/09/2021, 23:12:52,  * Running on http://0.0.0.0:3111/ (Press CTRL+C to quit)
+DEBUG:app:07/09/2021, 23:13:00, healthz page is accessed through chrome on windows
+INFO:app:07/09/2021, 23:13:00, "Status" is accessed.
+INFO:werkzeug:07/09/2021, 23:13:00, 127.0.0.1 - - [07/Sep/2021 23:13:00] "[37mGET /healthz HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:01, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:01, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:01, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:01, 127.0.0.1 - - [07/Sep/2021 23:13:01] "[37mGET /metrics HTTP/1.1[0m" 200 -
+INFO:werkzeug:07/09/2021, 23:13:06,  * Running on http://0.0.0.0:3111/ (Press CTRL+C to quit)
+DEBUG:app:07/09/2021, 23:13:08, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:08, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:08, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:08, 127.0.0.1 - - [07/Sep/2021 23:13:08] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:09, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:09, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:09, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:09, 127.0.0.1 - - [07/Sep/2021 23:13:09] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:10, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:10, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:10, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:10, 127.0.0.1 - - [07/Sep/2021 23:13:10] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:10, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:10, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:10, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:10, 127.0.0.1 - - [07/Sep/2021 23:13:10] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:10, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:10, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:10, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:10, 127.0.0.1 - - [07/Sep/2021 23:13:10] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:11, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:11, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:11, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:11, 127.0.0.1 - - [07/Sep/2021 23:13:11] "[37mGET /metrics HTTP/1.1[0m" 200 -
+DEBUG:app:07/09/2021, 23:13:11, metrics page is accessed through chrome on windows
+DEBUG:app:07/09/2021, 23:13:11, Connection to Database Successful through chrome on windows
+INFO:app:07/09/2021, 23:13:11, "Metrics" is accessed
+INFO:werkzeug:07/09/2021, 23:13:11, 127.0.0.1 - - [07/Sep/2021 23:13:11] "[37mGET /metrics HTTP/1.1[0m" 200 -
