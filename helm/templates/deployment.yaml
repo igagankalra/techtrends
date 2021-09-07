@@ -31,7 +31,7 @@ spec:
             cpu: {{ .Values.spec.resources.requests.cpu }}
             memory: {{ .Values.spec.resources.requests.memory }}
           limits:
-            cpu: {{ Values.spec.resources.limits.cpu }}
+            cpu: {{ .Values.spec.resources.limits.cpu }}
             memory: {{ .Values.spec.resources.limits.memory }}
         livenessProbe:
           httpGet:
