@@ -12,7 +12,7 @@ spec:
     helm:
       valueFiles:
       - values-staging.yaml
-    path: argocd
+    path: helm/
     repoURL: https://github.com/igagankalra/techtrends
     targetRevision: HEAD
   syncPolicy: {}
