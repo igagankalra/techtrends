@@ -12,7 +12,7 @@ spec:
     helm:
       valueFiles:
       - values-prod.yaml
-    path: techtrends/helm
+    path: .helm
     repoURL: https://github.com/igagankalra/techtrends
     targetRevision: HEAD
   syncPolicy: {}
